@@ -1,4 +1,8 @@
-This is the backend for SaveOurFaves.org.
+This is the backend for InspireIndy.org.
+
+Original README content below.
+
+---
 
 It's a fairly straightforward Django app with Postgres/PostGIS backing it for the 'nearby' queries. You'll also need [the React frontend](https://github.com/mikeyk/saveourfaves-frontend). It also uses `nginx` as the load balancer and file server for the static files/React app.
 
